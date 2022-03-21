@@ -2,11 +2,11 @@
 
 I'm 29-year-old boy on an intention to enhance as a successful full-stack web developer.
 
-- 🔭 I’m currently working on my LAMP stack
-- 🌱 I’m currently learning Backend & APIs
+- 🔭 I’m currently working on Laravel & Vuejs stack
+- 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with Backend & APIs
-- 📫 How to reach me: [erick.bravoc@gmail.com](mailto:erick.bravoc@gmail.com) & [Twitter @SrMarmotin](https://twitter.com/SrMarmotin)
+- 🤔 I’m looking for help with Backend || Frontend 
+- 📫 How to reach me: [erick.bravoc@gmail.com](mailto:erick.bravoc@gmail.com) & [Codepen](https://codepen.io/srmarmotin)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bird Lover 🦆
 
